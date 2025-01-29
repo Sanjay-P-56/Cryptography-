@@ -2,7 +2,7 @@ import java.math.BigInteger;
 import java.security.SecureRandom;
 import java.util.Scanner;
 
-public class RSA {
+public class RSA{
     private static final SecureRandom random = new SecureRandom();
     private static BigInteger n, e, d;
 
