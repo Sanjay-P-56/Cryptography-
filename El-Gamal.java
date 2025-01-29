@@ -25,7 +25,7 @@ public class ElGamal {
         }
     }
 
-    public static class PrivateKey {
+    public static class PrivateKey{
         public BigInteger p, g, x;
 
         public PrivateKey(BigInteger p, BigInteger g, BigInteger x) {
