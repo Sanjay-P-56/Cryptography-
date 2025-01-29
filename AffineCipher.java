@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AffineCipher {
+public class AffineCipher{
 
     // Letter-to-index and index-to-letter conversion
     public static int letterToIndex(char letter) {
