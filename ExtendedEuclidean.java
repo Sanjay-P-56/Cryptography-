@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ExtendedEuclidean {
+public class ExtendedEuclidean{
     public static void extendedEuclidean(int a, int b) {
         System.out.printf("%-10s %-10s %-10s %-10s %-10s %-10s %-10s%n", "q", "r1", "r2", "r", "t1", "t2", "t");
         System.out.println("-------------------------------------------------------------");
